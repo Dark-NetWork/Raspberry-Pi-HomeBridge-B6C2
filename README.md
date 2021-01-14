@@ -8,4 +8,5 @@
 # Raspberry Pi
 # HomeBridge B6C2
 
+<img src="https://raw.githubusercontent.com/homebridge/branding/master/logos/homebridge-wordmark-logo-horizontal.png" alt="https://raw.githubusercontent.com/homebridge/branding/master/logos/homebridge-wordmark-logo-horizontal.png" class="shrinkToFit transparent" width="716" height="358">
 <img src="https://guvensahin.com/wp-content/uploads/2016/03/raspberry-pi-logo.jpg" alt="https://guvensahin.com/wp-content/uploads/2016/03/raspberry-pi-logo.jpg" class="shrinkToFit" width="716" height="358">
