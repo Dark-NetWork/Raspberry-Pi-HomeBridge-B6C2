@@ -4,8 +4,8 @@ Hostname : raspberrypi
 
 IPv6 (eth0) : 2a02:214c:844a:1500:b3fe:9f30:3459:d959
 
-Linux raspberrypi 5.4.79+ #1373 Mon Nov 23 13:18:15 GMT 2020 armv6l GNU/Linux
+Uname -a : Linux raspberrypi 5.4.79+ #1373 Mon Nov 23 13:18:15 GMT 2020 armv6l GNU/Linux
 
-uid=999(homebridge) gid=995(homebridge) groups=995(homebridge),20(dialout),29(audio),44(video),112(bluetooth),997(gpio)
+İd : uid=999(homebridge) gid=995(homebridge) groups=995(homebridge),20(dialout),29(audio),44(video),112(bluetooth),997(gpio)
 
-Linux version 5.4.79+ (dom@buildbot) (gcc version 8.4.0 (Ubuntu/Linaro 8.4.0-3ubuntu1)) #1373 Mon Nov 23 13:18:15 GMT 2020
+Uname : Linux version 5.4.79+ (dom@buildbot) (gcc version 8.4.0 (Ubuntu/Linaro 8.4.0-3ubuntu1)) #1373 Mon Nov 23 13:18:15 GMT 2020
